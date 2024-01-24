@@ -3,7 +3,7 @@ let numeroSecreto = 4;
 let numeroUsuario = 0;
 let intentos = 1;
 let palabraVeces = 'vez';
-
+//test
 while (numeroUsuario != numeroSecreto) {
     numeroUsuario = prompt("Me indicas un número entre 1 y 10 por favor:");
 
